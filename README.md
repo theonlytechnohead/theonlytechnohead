@@ -1,6 +1,6 @@
 ### Hello there.
 
-- 🔭 I’m currently working on https://github.com/theonlytechnohead/YAMAHA-MIDI
+- 🔭 I’m currently working on https://github.com/theonlytechnohead/TouchFaders_MIDI
 - 🌱 I’m currently learning how to do fancier Android stuff https://github.com/theonlytechnohead/YAMAHA-OSC
 - 💬 Ask me about YAMAHA digital mixing consoles and MIDI SysEx
 - 📫 How to reach me: https://discord.com
